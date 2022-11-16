@@ -1,4 +1,4 @@
-# social_effects_of_an_awesome_solar_eclipse
+# The Social Effects of an Awesome Solar Eclipse
 
 Life is full of awe-inspiring things--things that blow your mind and make you say "wow!"--like viewing a stunning sunset, listening to an amazing song, or taking a bite out of a particularly delcious burrito. 
 Research indicates that feeling awe can make people more humble, generous, and helpful toward other people. But, much of this research happens in laboratory environments, with small samples of people.
